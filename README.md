@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Favour and I am an aspiring fullstack web3 developer who's currently working on my portfolio website, staying fit, exploring and learning all there's to the world of decentralization while sharing my progress. Here the link to my twitter page https://twitter.com/i/flow/login?redirect_after_login=%2Fpha_for
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Favvychan=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Favvychan/Favvychan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
